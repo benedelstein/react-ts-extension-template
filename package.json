@@ -7,7 +7,7 @@
     "dev": "webpack --config webpack.dev.js",
     "watch": "webpack -w --config webpack.dev.js"
   },
-  "author": "Joe Martella",
+  "author": "Your Name",
   "devDependencies": {
     "@types/chrome": "^0.0.158",
     "@types/react": "^17.0.27",

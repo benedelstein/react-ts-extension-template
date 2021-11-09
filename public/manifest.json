@@ -1,6 +1,6 @@
 {
-  "name": "hbd facebook export",
-  "description": "add your facebook birthdays to hbd!",
+  "name": "template",
+  "description": "description",
   "default_locale": "en",
   "version": "1.0",
   "manifest_version": 2,
@@ -21,7 +21,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*//*facebook.*/*"],
+      "matches": ["*//*example.com/*"],
       "js": ["content.js"]
     }
   ],
